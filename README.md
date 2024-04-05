@@ -30,11 +30,13 @@ This application uses the OpenWeather API to fetch weather data. You'll need to 
 const apiKey = 'YOUR_API_KEY';
 
 
+
 Here's a README.md template for your Weather Web App:
 
 markdown
 Copy code
-# Weather Web Application
+
+## Weather Web Application
 
 This is a Weather Web Application that fetches weather details of different cities using the OpenWeather API. It displays both current weather and future hourly weather forecasts for various cities.
 
@@ -72,14 +74,15 @@ To run the Weather Web Application locally, follow these steps:
 - Enter the name of a city in the search bar and press Enter or click the search button.
 - View the current weather details and hourly forecast for the selected city.
 
-## API Key
+API Key
 
 This application uses the OpenWeather API to fetch weather data. You'll need to sign up for an API key on the [OpenWeather website](https://openweathermap.org/) and replace `YOUR_API_KEY` in the `script.js` file with your actual API key.
 
 ```javascript
 const apiKey = 'YOUR_API_KEY';
 
-## Contributing
+
+# Contributing
 
 If you'd like to contribute to this project, you can:
 
